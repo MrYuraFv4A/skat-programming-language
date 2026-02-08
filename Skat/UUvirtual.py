@@ -393,10 +393,6 @@ class SkatVirtualMachine:
                 self.error(command, 'Пользователь прервал исполнение.')
 
         
-    #   Ира дура
-    #               (11.09.2025)
-    #      Лиза Тоже
-    #         люблю их (12.09.2025) 
 
     def CONNECT(self,*command,namespace=[]):
         print('CONNECTING',command[0][1])
@@ -671,7 +667,7 @@ class SkatVirtualMachine:
                 ...#self.conditions.get()
                 
         except IndexError:
-            self.error(command, "Мальчик, ну ты дебил? Ты вот скажи мне, что за херь? Тебе высё хиханьки-да-хаханьки, да?")
+            self.error(command, "")
 
     def NAMESPACE(self,*command,namespace=[]):
         self.namespace.append(command[0][1])
@@ -1008,3 +1004,4 @@ class SkatVirtualMachine:
             pprint(self.memory)
         logFile.close()
             
+
