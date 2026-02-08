@@ -1,0 +1,13 @@
+namespace humanize{
+    new getKleene <- val : int ->  string = {
+        if (val == 1) run {
+            return "true"
+        } else if (val == 0) run {
+            return "maybe"
+        } else if (val == -1) run {
+            return "false"
+        } else run {
+            return "not a kleene"
+        }
+    }
+}

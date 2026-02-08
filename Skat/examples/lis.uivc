@@ -1,0 +1,6 @@
+namespace lis {
+    new msg : string = "really bad "
+    new badBitchlar() -> string = {
+        return msg + "bitches (!!)";
+    }
+}

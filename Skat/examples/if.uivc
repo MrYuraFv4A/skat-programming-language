@@ -1,0 +1,12 @@
+new i : int = $to.Int <- $in;
+if (i > 10) run {
+    if (i < 30) & (i > 20) run {
+        $console.printv("20")
+    } else run { 
+        $console.printv("Больше 10")
+    }
+} else run {
+    if (i == 10) run {$console.printv("10")} else run {
+        $console.printv("Меньше 10")
+    }
+}

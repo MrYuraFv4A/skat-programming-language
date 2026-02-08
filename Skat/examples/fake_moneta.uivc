@@ -1,0 +1,33 @@
+new find() -> int = {
+    new low : int = 0
+    new high : int = n - 1
+    new steps : int = 0
+    new size : int = 0
+    new m1 : int = 0
+    new m2 : int = 0
+    while (low < high) run {
+        steps++
+        size = high - low + 1
+        
+        //Границы трёх групп
+        m1 = low + (size div 3)
+        m2 = low + 2 * (size div 3)
+
+        if (target < m1) run { //Группа 1 (на весах слева)
+            high = m1 - 1
+        } else if (target < m2) run { //Группа 2 (на весах справа)
+            low = m1
+            high = m2 - 1
+        } else run { //Группа 3 (в стороне)
+            low = m2
+        }
+    }
+    return steps
+}
+
+new target : int = 4
+new n : int = 9
+
+$out("Путь для n монет: ")
+
+$console.printv($find)

@@ -1,0 +1,11 @@
+//factorial
+
+new f <- x : int -> int = {
+    if (x == 0) run {
+        return 1
+    } else run {
+        return x*$f(x-1)
+    }
+}
+
+$console.printv($f($to.Int($in)))

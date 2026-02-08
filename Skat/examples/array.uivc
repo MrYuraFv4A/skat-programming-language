@@ -1,0 +1,11 @@
+namespace abc {
+    
+}
+
+
+new l : int = [0,[7,8],2]
+
+$out <- l.1.1
+
+
+$out <- "\n"

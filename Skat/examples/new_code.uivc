@@ -1,0 +1,23 @@
+connect "std/humanize.uivc"
+
+namespace Friends{ //Друзья, приглашённые на вечеринку
+    object Sergey{
+        new is_going : kleene = false //отказался
+    }
+    object Lisa{
+        new is_going : kleene = maybe //ещё не решила
+    }
+    object Irina{
+        new is_going : kleene = true //точно придёт
+    }
+}
+
+
+new main = {
+    new statusKleene : kleene = Friends.Lisa.is_going & Friends.Irina.is_going
+
+    new status : string = $humanize.getKleene(statusKleene)
+    $console.printv <- status
+}
+
+$main

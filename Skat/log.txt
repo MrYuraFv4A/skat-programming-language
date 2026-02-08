@@ -1,0 +1,1665 @@
+
+
+
+21:38:51.117528
+None
+None
+None
+None
+None
+None
+
+
+
+21:39:16.370692
+
+
+
+21:39:19.990520
+
+
+
+21:39:30.806593
+
+
+
+21:39:44.703937
+f.f.f.f.f.x была удалена
+f.f.f.f.x была удалена
+f.f.f.x была удалена
+f.f.x была удалена
+false была удалена
+f.x была удалена
+
+
+
+21:40:15.758039
+
+
+
+21:40:17.917020
+f.f.f.f.f.x была удалена
+f.f.f.f.x была удалена
+f.f.f.x была удалена
+f.f.x была удалена
+f.x была удалена
+
+
+
+21:41:23.551055
+
+
+
+21:47:46.524289
+
+
+
+21:48:46.484056
+
+
+
+21:49:50.630686
+
+
+
+21:52:11.065288
+
+
+
+21:53:31.367501
+
+
+
+21:53:52.885934
+
+
+
+21:54:05.769003
+
+
+
+21:54:47.777057
+
+
+
+21:55:48.253420
+
+
+
+21:56:25.901618
+['x10']
+
+
+
+21:57:17.806251
+['x10']
+
+
+
+21:57:35.081250
+['to3']
+['x10']
+
+
+
+21:58:08.618229
+['to3']
+['x10']
+
+
+
+22:00:03.277440
+['to3']
+['None']
+
+
+
+22:03:12.824605
+['to3']
+while['to3']
+while['to3']
+while['to3']
+while['to3']
+while['to3']
+while['to3']
+while['to3']
+while['to3']
+while['to3']
+while['to3']
+while['to3']
+while['to3']
+while['to3']
+while['to3']
+while['to3']
+while['to3']
+['None']
+
+
+
+22:04:31.063166
+['to3']
+['None']
+
+
+
+22:05:59.247815
+['to3']
+['None']
+
+
+
+22:06:37.626361
+['to3']
+['None']
+
+
+
+22:06:54.598252
+['to3']
+['None']
+
+
+
+22:11:46.614568
+
+
+
+22:19:36.532558
+['to3']
+['None']
+
+
+
+22:49:20.646208
+callto3.x10
+['to3']
+callto.String.ptr
+['None']
+
+
+
+22:52:06.226224
+['to3']
+['None']
+
+
+
+22:55:41.129524
+['to3']
+['None']
+
+
+
+22:56:36.025967
+['to3']
+['None']
+
+
+
+23:00:03.205176
+['to3']
+['None']
+
+
+
+23:00:42.170131
+ret 14
+ret 14
+ret 14
+['to3']
+ret 
+ret 14
+ret 1
+ret 14
+ret 14
+ret None
+['None']
+
+
+
+23:01:49.558330
+
+
+
+23:02:12.447616
+ret `temp2 14
+ret `temp2 14
+ret d 14
+['to3']
+ret to3.`temp0 
+ret to3.x10 14
+ret to3.`temp0 1
+ret to3.x10 14
+ret to3.`temp3 14
+ret `temp2 None
+['None']
+
+
+
+23:05:32.415762
+ret `temp2 14
+ret `temp2 14
+ret d 14
+['to3']
+ret to3.`temp0 
+ret to3.x10 14
+ret to3.`temp0 1
+ret to3.x10 14
+ret to3.`temp4 14
+ret to3.`temp3 2
+ret to3.`temp5 10
+ret to3.`temp2 20
+ret to3.x3 
+
+
+
+23:06:19.519987
+ret `temp2 14
+ret `temp2 14
+ret d 14
+['to3']
+ret to3.`temp0 0
+ret to3.`temp0 0
+ret to3.x10 14
+ret to3.`temp0 1
+ret to3.x10 14
+ret to3.`temp5 14
+ret to3.`temp4 2
+ret to3.`temp6 10
+ret to3.`temp3 20
+ret to3.i 0
+ret to3.`temp7 0
+ret to3.`temp2 1
+ret to3.x3 0
+ret to3.`temp1 1
+ret to3.x10 14
+ret to3.`temp2 14
+ret to3.`temp1 4
+ret to3.x10 4
+ret to3.`temp0 1
+ret to3.x10 4
+ret to3.`temp5 4
+ret to3.`temp4 1
+ret to3.`temp6 10
+ret to3.`temp3 10
+ret to3.i 0
+ret to3.`temp7 0
+ret to3.`temp2 1
+ret to3.x3 1
+ret to3.`temp1 2
+ret to3.x10 4
+ret to3.`temp2 4
+ret to3.`temp1 1
+ret to3.x10 1
+ret to3.`temp0 1
+ret to3.x10 1
+ret to3.`temp5 1
+ret to3.`temp4 1
+ret to3.`temp6 10
+ret to3.`temp3 10
+ret to3.i 0
+ret to3.`temp7 0
+ret to3.`temp2 1
+ret to3.x3 2
+ret to3.`temp1 3
+ret to3.x10 1
+ret to3.`temp2 1
+ret to3.`temp1 0
+ret to3.x10 0
+ret to3.`temp0 -1
+ret to3.x3 3
+ret to3.`temp1 3
+ret `temp2 3
+
+
+
+23:08:29.523421
+ret `temp2 14
+ret `temp2 14
+ret d 14
+['to3']
+ret to3.`temp0 0
+ret to3.`temp0 0
+ret to3.x10 14
+ret to3.`temp0 1
+ret to3.x10 14
+ret to3.`temp5 14
+ret to3.`temp4 2
+ret to3.`temp6 10
+ret to3.`temp3 20
+ret to3.i 0
+ret to3.`temp7 0
+ret to3.`temp2 1
+ret to3.x3 0
+ret to3.`temp1 1
+ret to3.x10 14
+ret to3.`temp2 14
+ret to3.`temp1 4
+ret to3.x10 4
+ret to3.`temp0 1
+ret to3.x10 4
+ret to3.`temp5 4
+ret to3.`temp4 1
+ret to3.`temp6 10
+ret to3.`temp3 10
+ret to3.i 0
+ret to3.`temp7 0
+ret to3.`temp2 1
+ret to3.x3 1
+ret to3.`temp1 2
+ret to3.x10 4
+ret to3.`temp2 4
+ret to3.`temp1 1
+ret to3.x10 1
+ret to3.`temp0 1
+ret to3.x10 1
+ret to3.`temp5 1
+ret to3.`temp4 1
+ret to3.`temp6 10
+ret to3.`temp3 10
+ret to3.i 0
+ret to3.`temp7 0
+ret to3.`temp2 1
+ret to3.x3 2
+ret to3.`temp1 3
+ret to3.x10 1
+ret to3.`temp2 1
+ret to3.`temp1 0
+ret to3.x10 0
+ret to3.`temp0 -1
+ret to3.x3 3
+ret to3.`temp1 3
+ret `temp2 3
+
+
+
+23:08:54.849278
+ret `temp2 14
+ret `temp2 14
+ret d 14
+['to3']
+ret to3.`temp0 0
+ret to3.`temp0 0
+ret to3.x10 14
+ret to3.`temp0 1
+ret to3.x10 14
+ret to3.`temp5 14
+ret to3.`temp4 2
+ret to3.`temp6 10
+ret to3.`temp3 20
+ret to3.i 0
+ret to3.`temp7 0
+ret to3.`temp2 1
+ret to3.x3 0
+ret to3.`temp1 1
+ret to3.x10 14
+ret to3.`temp2 14
+ret to3.`temp1 4
+ret to3.i 0
+ret to3.`temp1 1
+ret to3.x10 4
+ret to3.`temp0 1
+ret to3.x10 4
+ret to3.`temp5 4
+ret to3.`temp4 1
+ret to3.`temp6 10
+ret to3.`temp3 10
+ret to3.i 1
+ret to3.`temp7 1
+ret to3.`temp2 10
+ret to3.x3 1
+ret to3.`temp1 11
+ret to3.x10 4
+ret to3.`temp2 4
+ret to3.`temp1 1
+ret to3.i 1
+ret to3.`temp1 2
+ret to3.x10 1
+ret to3.`temp0 1
+ret to3.x10 1
+ret to3.`temp5 1
+ret to3.`temp4 1
+ret to3.`temp6 10
+ret to3.`temp3 10
+ret to3.i 2
+ret to3.`temp7 2
+ret to3.`temp2 100
+ret to3.x3 11
+ret to3.`temp1 111
+ret to3.x10 1
+ret to3.`temp2 1
+ret to3.`temp1 0
+ret to3.i 2
+ret to3.`temp1 3
+ret to3.x10 0
+ret to3.`temp0 -1
+ret to3.x3 111
+ret to3.`temp1 111
+ret `temp2 111
+
+
+
+23:09:33.610358
+ret `temp2 14
+ret `temp2 14
+ret d 14
+['to3']
+ret to3.`temp0 0
+ret to3.`temp0 0
+ret to3.x10 14
+ret to3.`temp0 1
+ret to3.x10 14
+ret to3.`temp4 14
+ret to3.`temp3 2
+ret to3.`temp5 10
+ret to3.`temp2 20
+ret to3.x3 0
+ret to3.`temp1 20
+ret to3.x10 14
+ret to3.`temp2 14
+ret to3.`temp1 4
+ret to3.i 0
+ret to3.`temp1 1
+ret to3.x10 4
+ret to3.`temp0 1
+ret to3.x10 4
+ret to3.`temp4 4
+ret to3.`temp3 1
+ret to3.`temp5 10
+ret to3.`temp2 10
+ret to3.x3 20
+ret to3.`temp1 30
+ret to3.x10 4
+ret to3.`temp2 4
+ret to3.`temp1 1
+ret to3.i 1
+ret to3.`temp1 2
+ret to3.x10 1
+ret to3.`temp0 1
+ret to3.x10 1
+ret to3.`temp4 1
+ret to3.`temp3 1
+ret to3.`temp5 10
+ret to3.`temp2 10
+ret to3.x3 30
+ret to3.`temp1 40
+ret to3.x10 1
+ret to3.`temp2 1
+ret to3.`temp1 0
+ret to3.i 2
+ret to3.`temp1 3
+ret to3.x10 0
+ret to3.`temp0 -1
+ret to3.x3 40
+ret to3.`temp1 40
+ret `temp2 40
+
+
+
+23:09:54.397447
+ret `temp2 14
+ret `temp2 14
+ret d 14
+['to3']
+ret to3.`temp0 0
+ret to3.`temp0 0
+ret to3.x10 14
+ret to3.`temp0 1
+ret to3.x10 14
+ret to3.`temp3 14
+ret to3.`temp2 2
+ret to3.x3 0
+ret to3.`temp5 0
+ret to3.`temp6 10
+ret to3.`temp4 0
+ret to3.`temp1 2
+ret to3.x10 14
+ret to3.`temp2 14
+ret to3.`temp1 4
+ret to3.i 0
+ret to3.`temp1 1
+ret to3.x10 4
+ret to3.`temp0 1
+ret to3.x10 4
+ret to3.`temp3 4
+ret to3.`temp2 1
+ret to3.x3 2
+ret to3.`temp5 2
+ret to3.`temp6 10
+ret to3.`temp4 20
+ret to3.`temp1 21
+ret to3.x10 4
+ret to3.`temp2 4
+ret to3.`temp1 1
+ret to3.i 1
+ret to3.`temp1 2
+ret to3.x10 1
+ret to3.`temp0 1
+ret to3.x10 1
+ret to3.`temp3 1
+ret to3.`temp2 1
+ret to3.x3 21
+ret to3.`temp5 21
+ret to3.`temp6 10
+ret to3.`temp4 210
+ret to3.`temp1 211
+ret to3.x10 1
+ret to3.`temp2 1
+ret to3.`temp1 0
+ret to3.i 2
+ret to3.`temp1 3
+ret to3.x10 0
+ret to3.`temp0 -1
+ret to3.x3 211
+ret to3.`temp1 211
+ret `temp2 211
+
+
+
+23:11:43.045955
+ret `temp3 14
+ret `temp3 14
+ret d 14
+['to3']
+ret to3.`temp0 0
+ret to3.x10 14
+ret to3.`temp0 1
+ret to3.x10 14
+ret to3.`temp3 14
+ret to3.`temp2 2
+ret to3.x3 0
+ret to3.`temp5 0
+ret to3.`temp6 10
+ret to3.`temp4 0
+ret to3.`temp1 2
+ret to3.x10 14
+ret to3.`temp2 14
+ret to3.`temp1 4
+ret to3.x10 4
+ret to3.`temp0 1
+ret to3.x10 4
+ret to3.`temp3 4
+ret to3.`temp2 1
+ret to3.x3 2
+ret to3.`temp5 2
+ret to3.`temp6 10
+ret to3.`temp4 20
+ret to3.`temp1 21
+ret to3.x10 4
+ret to3.`temp2 4
+ret to3.`temp1 1
+ret to3.x10 1
+ret to3.`temp0 1
+ret to3.x10 1
+ret to3.`temp3 1
+ret to3.`temp2 1
+ret to3.x3 21
+ret to3.`temp5 21
+ret to3.`temp6 10
+ret to3.`temp4 210
+ret to3.`temp1 211
+ret to3.x10 1
+ret to3.`temp2 1
+ret to3.`temp1 0
+ret to3.x10 0
+ret to3.`temp0 -1
+ret to3.`temp1 0
+ret to3.x10 0
+ret to3.`temp1 -1
+ret to3.ret 0
+ret to3.`temp2 0
+ret `temp3 0
+
+
+
+23:12:02.272641
+ret `temp3 14
+ret `temp3 14
+ret d 14
+['to3']
+ret to3.`temp0 0
+ret to3.x10 14
+ret to3.`temp0 1
+ret to3.x10 14
+ret to3.`temp3 14
+ret to3.`temp2 2
+ret to3.x3 0
+ret to3.`temp5 0
+ret to3.`temp6 10
+ret to3.`temp4 0
+ret to3.`temp1 2
+ret to3.x10 14
+ret to3.`temp2 14
+ret to3.`temp1 4
+ret to3.x10 4
+ret to3.`temp0 1
+ret to3.x10 4
+ret to3.`temp3 4
+ret to3.`temp2 1
+ret to3.x3 2
+ret to3.`temp5 2
+ret to3.`temp6 10
+ret to3.`temp4 20
+ret to3.`temp1 21
+ret to3.x10 4
+ret to3.`temp2 4
+ret to3.`temp1 1
+ret to3.x10 1
+ret to3.`temp0 1
+ret to3.x10 1
+ret to3.`temp3 1
+ret to3.`temp2 1
+ret to3.x3 21
+ret to3.`temp5 21
+ret to3.`temp6 10
+ret to3.`temp4 210
+ret to3.`temp1 211
+ret to3.x10 1
+ret to3.`temp2 1
+ret to3.`temp1 0
+ret to3.x10 0
+ret to3.`temp0 -1
+ret to3.`temp1 0
+ret to3.x3 211
+ret to3.`temp1 1
+ret to3.x3 211
+ret to3.`temp4 211
+ret to3.`temp3 1
+ret to3.ret 0
+ret to3.`temp6 0
+ret to3.`temp7 10
+ret to3.`temp5 0
+ret to3.`temp2 1
+ret to3.x3 211
+ret to3.`temp3 211
+ret to3.`temp2 21
+ret to3.x3 21
+ret to3.`temp1 1
+ret to3.x3 21
+ret to3.`temp4 21
+ret to3.`temp3 1
+ret to3.ret 1
+ret to3.`temp6 1
+ret to3.`temp7 10
+ret to3.`temp5 10
+ret to3.`temp2 11
+ret to3.x3 21
+ret to3.`temp3 21
+ret to3.`temp2 2
+ret to3.x3 2
+ret to3.`temp1 1
+ret to3.x3 2
+ret to3.`temp4 2
+ret to3.`temp3 2
+ret to3.ret 11
+ret to3.`temp6 11
+ret to3.`temp7 10
+ret to3.`temp5 110
+ret to3.`temp2 112
+ret to3.x3 2
+ret to3.`temp3 2
+ret to3.`temp2 0
+ret to3.x3 0
+ret to3.`temp1 -1
+ret to3.ret 112
+ret to3.`temp2 112
+ret `temp3 112
+
+
+
+23:13:11.434033
+ret `temp3 14
+ret `temp3 14
+ret t 14
+ret d 14
+['to3']
+ret to3.`temp0 0
+ret to3.x10 14
+ret to3.`temp0 1
+ret to3.x10 14
+ret to3.`temp3 14
+ret to3.`temp2 2
+ret to3.x3 0
+ret to3.`temp5 0
+ret to3.`temp6 10
+ret to3.`temp4 0
+ret to3.`temp1 2
+ret to3.x10 14
+ret to3.`temp2 14
+ret to3.`temp1 4
+ret to3.x10 4
+ret to3.`temp0 1
+ret to3.x10 4
+ret to3.`temp3 4
+ret to3.`temp2 1
+ret to3.x3 2
+ret to3.`temp5 2
+ret to3.`temp6 10
+ret to3.`temp4 20
+ret to3.`temp1 21
+ret to3.x10 4
+ret to3.`temp2 4
+ret to3.`temp1 1
+ret to3.x10 1
+ret to3.`temp0 1
+ret to3.x10 1
+ret to3.`temp3 1
+ret to3.`temp2 1
+ret to3.x3 21
+ret to3.`temp5 21
+ret to3.`temp6 10
+ret to3.`temp4 210
+ret to3.`temp1 211
+ret to3.x10 1
+ret to3.`temp2 1
+ret to3.`temp1 0
+ret to3.x10 0
+ret to3.`temp0 -1
+ret to3.`temp1 0
+ret to3.x3 211
+ret to3.`temp1 1
+ret to3.x3 211
+ret to3.`temp4 211
+ret to3.`temp3 1
+ret to3.ret 0
+ret to3.`temp6 0
+ret to3.`temp7 10
+ret to3.`temp5 0
+ret to3.`temp2 1
+ret to3.x3 211
+ret to3.`temp3 211
+ret to3.`temp2 21
+ret to3.x3 21
+ret to3.`temp1 1
+ret to3.x3 21
+ret to3.`temp4 21
+ret to3.`temp3 1
+ret to3.ret 1
+ret to3.`temp6 1
+ret to3.`temp7 10
+ret to3.`temp5 10
+ret to3.`temp2 11
+ret to3.x3 21
+ret to3.`temp3 21
+ret to3.`temp2 2
+ret to3.x3 2
+ret to3.`temp1 1
+ret to3.x3 2
+ret to3.`temp4 2
+ret to3.`temp3 2
+ret to3.ret 11
+ret to3.`temp6 11
+ret to3.`temp7 10
+ret to3.`temp5 110
+ret to3.`temp2 112
+ret to3.x3 2
+ret to3.`temp3 2
+ret to3.`temp2 0
+ret to3.x3 0
+ret to3.`temp1 -1
+ret to3.ret 112
+ret to3.`temp2 112
+ret `temp3 112
+
+
+
+23:13:24.946625
+ret `temp3 14
+ret `temp3 14
+ret t 14
+ret d 14
+['to3']
+ret to3.`temp0 0
+ret to3.x10 14
+ret to3.`temp0 1
+ret to3.x10 14
+ret to3.`temp3 14
+ret to3.`temp2 2
+ret to3.x3 0
+ret to3.`temp5 0
+ret to3.`temp6 10
+ret to3.`temp4 0
+ret to3.`temp1 2
+ret to3.x10 14
+ret to3.`temp2 14
+ret to3.`temp1 4
+ret to3.x10 4
+ret to3.`temp0 1
+ret to3.x10 4
+ret to3.`temp3 4
+ret to3.`temp2 1
+ret to3.x3 2
+ret to3.`temp5 2
+ret to3.`temp6 10
+ret to3.`temp4 20
+ret to3.`temp1 21
+ret to3.x10 4
+ret to3.`temp2 4
+ret to3.`temp1 1
+ret to3.x10 1
+ret to3.`temp0 1
+ret to3.x10 1
+ret to3.`temp3 1
+ret to3.`temp2 1
+ret to3.x3 21
+ret to3.`temp5 21
+ret to3.`temp6 10
+ret to3.`temp4 210
+ret to3.`temp1 211
+ret to3.x10 1
+ret to3.`temp2 1
+ret to3.`temp1 0
+ret to3.x10 0
+ret to3.`temp0 -1
+ret to3.`temp1 0
+ret to3.x3 211
+ret to3.`temp1 1
+ret to3.x3 211
+ret to3.`temp4 211
+ret to3.`temp3 1
+ret to3.ret 0
+ret to3.`temp6 0
+ret to3.`temp7 10
+ret to3.`temp5 0
+ret to3.`temp2 1
+ret to3.x3 211
+ret to3.`temp3 211
+ret to3.`temp2 21
+ret to3.x3 21
+ret to3.`temp1 1
+ret to3.x3 21
+ret to3.`temp4 21
+ret to3.`temp3 1
+ret to3.ret 1
+ret to3.`temp6 1
+ret to3.`temp7 10
+ret to3.`temp5 10
+ret to3.`temp2 11
+ret to3.x3 21
+ret to3.`temp3 21
+ret to3.`temp2 2
+ret to3.x3 2
+ret to3.`temp1 1
+ret to3.x3 2
+ret to3.`temp4 2
+ret to3.`temp3 2
+ret to3.ret 11
+ret to3.`temp6 11
+ret to3.`temp7 10
+ret to3.`temp5 110
+ret to3.`temp2 112
+ret to3.x3 2
+ret to3.`temp3 2
+ret to3.`temp2 0
+ret to3.x3 0
+ret to3.`temp1 -1
+ret to3.ret 112
+ret to3.`temp2 112
+ret `temp3 112
+
+
+
+23:20:38.852423
+ret `temp0 Добрый
+ret wa Добрый
+ret `temp2 Добрый,
+ret `temp1 Добрый, 
+ret `temp0 Добрый, день
+ret maybe 0
+['`temp1', 'maybe']
+ret true 1
+['`temp1', 'true']
+ret `temp1 0
+['`temp0', '`temp1']
+ret false -1
+['`temp0', 'false']
+ret `temp0 0
+ret co 0
+ret `temp0 0
+ret co 0
+ret `temp1 1
+ret `temp2 -1
+ret `temp4 "12"
+['to.Int']
+ret to.Int.ptr 12
+ret to.Int.ptr 12
+ret `temp3 12
+ret i 12
+ret `temp3 1
+ret i 12
+ret `temp5 1
+['`temp4', '`temp5']
+ret i 12
+ret `temp6 -1
+['`temp4', '`temp6']
+ret `temp4 -1
+['f']
+ret f.x 5
+ret f.`temp8 -1
+ret f.x 5
+ret f.`temp11 5
+ret f.x 5
+ret f.`temp12 4
+['f']
+ret f.x 4
+ret f.`temp8 -1
+ret f.x 4
+ret f.`temp11 4
+ret f.x 4
+ret f.`temp12 3
+['f']
+ret f.x 3
+ret f.`temp8 -1
+ret f.x 3
+ret f.`temp11 3
+ret f.x 3
+ret f.`temp12 2
+['f']
+ret f.x 2
+ret f.`temp8 -1
+ret f.x 2
+ret f.`temp11 2
+ret f.x 2
+ret f.`temp12 1
+['f']
+ret f.x 1
+ret f.`temp8 -1
+ret f.x 1
+ret f.`temp11 1
+ret f.x 1
+ret f.`temp12 0
+['f']
+ret f.x 0
+ret f.`temp8 1
+ret f.`temp9 1
+['f', 'f']
+['f', 'f']
+ret f.`temp10 1
+['f', 'f']
+['f', 'f']
+ret f.`temp10 1
+
+
+
+23:23:43.132437
+ret `temp0 Добрый
+ret wa Добрый
+ret `temp2 Добрый,
+ret `temp1 Добрый, 
+ret `temp0 Добрый, день
+ret maybe 0
+['`temp1', 'maybe']
+ret true 1
+['`temp1', 'true']
+ret `temp1 0
+['`temp0', '`temp1']
+ret false -1
+['`temp0', 'false']
+ret `temp0 0
+ret co 0
+ret `temp0 0
+ret co 0
+ret `temp1 1
+ret `temp2 -1
+ret `temp4 "12"
+['to.Int']
+ret to.Int.ptr 12
+ret to.Int.ptr 12
+ret `temp3 12
+ret i 12
+ret `temp3 1
+ret i 12
+ret `temp5 1
+['`temp4', '`temp5']
+ret i 12
+ret `temp6 -1
+['`temp4', '`temp6']
+ret `temp4 -1
+['f']
+ret f.x 5
+ret f.`temp8 -1
+ret f.x 5
+ret f.`temp11 5
+ret f.x 5
+ret f.`temp12 4
+['f']
+ret f.x 4
+ret f.`temp8 -1
+ret f.x 4
+ret f.`temp11 4
+ret f.x 4
+ret f.`temp12 3
+['f']
+ret f.x 3
+ret f.`temp8 -1
+ret f.x 3
+ret f.`temp11 3
+ret f.x 3
+ret f.`temp12 2
+['f']
+ret f.x 2
+ret f.`temp8 -1
+ret f.x 2
+ret f.`temp11 2
+ret f.x 2
+ret f.`temp12 1
+['f']
+ret f.x 1
+ret f.`temp8 -1
+ret f.x 1
+ret f.`temp11 1
+ret f.x 1
+ret f.`temp12 0
+['f']
+ret f.x 0
+ret f.`temp8 1
+ret f.`temp9 1
+['f', 'f']
+['f', 'f']
+ret f.`temp10 1
+['f', 'f']
+['f', 'f']
+ret f.`temp10 1
+
+
+
+21:55:42.615409
+ret `temp0 Добрый
+ret wa Добрый
+ret `temp2 Добрый,
+ret `temp1 Добрый, 
+ret `temp0 Добрый, день
+ret maybe 0
+['`temp1', 'maybe']
+ret true 1
+['`temp1', 'true']
+ret `temp1 0
+['`temp0', '`temp1']
+ret false -1
+['`temp0', 'false']
+ret `temp0 0
+ret co 0
+ret `temp0 0
+ret co 0
+ret `temp1 1
+ret `temp2 -1
+ret `temp4 "12"
+['to.Int']
+ret ptr 12
+['ptr', 'ptr']
+['to', 'Int', 'ptr']
+['to', 'ptr']
+ret ptr 12
+ret `temp3 12
+ret i 12
+ret `temp3 1
+ret i 12
+ret `temp5 1
+['`temp4', '`temp5']
+ret i 12
+ret `temp6 -1
+['`temp4', '`temp6']
+ret `temp4 -1
+['f']
+['f', 'x']
+ret x 5
+['f', 'x']
+ret f.`temp8 -1
+['f', 'x']
+ret x 5
+['f', 'x']
+ret f.`temp11 5
+['f', 'x']
+ret x 5
+['f', 'x']
+ret f.`temp12 4
+['f']
+['f', 'f', 'x']
+ret f.x 4
+['f', 'f', 'x']
+ret f.f.`temp8 -1
+['f', 'f', 'x']
+ret f.x 4
+['f', 'f', 'x']
+ret f.f.`temp11 4
+['f', 'f', 'x']
+ret f.x 4
+['f', 'f', 'x']
+ret f.f.`temp12 3
+['f']
+['f', 'f', 'f', 'x']
+ret f.f.x 3
+['f', 'f', 'f', 'x']
+ret f.f.f.`temp8 -1
+['f', 'f', 'f', 'x']
+ret f.f.x 3
+['f', 'f', 'f', 'x']
+ret f.f.f.`temp11 3
+['f', 'f', 'f', 'x']
+ret f.f.x 3
+['f', 'f', 'f', 'x']
+ret f.f.f.`temp12 2
+['f']
+['f', 'f', 'f', 'f', 'x']
+ret f.f.f.x 2
+['f', 'f', 'f', 'f', 'x']
+ret f.f.f.f.`temp8 -1
+['f', 'f', 'f', 'f', 'x']
+ret f.f.f.x 2
+['f', 'f', 'f', 'f', 'x']
+ret f.f.f.f.`temp11 2
+['f', 'f', 'f', 'f', 'x']
+ret f.f.f.x 2
+['f', 'f', 'f', 'f', 'x']
+ret f.f.f.f.`temp12 1
+['f']
+['f', 'f', 'f', 'f', 'f', 'x']
+ret f.f.f.f.x 1
+['f', 'f', 'f', 'f', 'f', 'x']
+ret f.f.f.f.f.`temp8 -1
+['f', 'f', 'f', 'f', 'f', 'x']
+ret f.f.f.f.x 1
+['f', 'f', 'f', 'f', 'f', 'x']
+ret f.f.f.f.f.`temp11 1
+['f', 'f', 'f', 'f', 'f', 'x']
+ret f.f.f.f.x 1
+['f', 'f', 'f', 'f', 'f', 'x']
+ret f.f.f.f.f.`temp12 0
+['f']
+['f', 'f', 'f', 'f', 'f', 'f', 'x']
+ret f.f.f.f.f.x 0
+['f', 'f', 'f', 'f', 'f', 'f', 'x']
+ret f.f.f.f.f.f.`temp8 1
+ret f.f.f.f.f.f.`temp9 1
+['f', 'f', 'f', 'f', 'f', 'f']
+['f', 'f', 'f', 'f', 'f']
+['f', 'f', 'f', 'f']
+['f', 'f', 'f']
+['f', 'f']
+['f', 'f', 'f', 'f', 'f', 'f']
+['f', 'f', 'f', 'f', 'f']
+['f', 'f', 'f', 'f']
+['f', 'f', 'f']
+['f', 'f']
+ret f.f.f.f.f.`temp10 1
+['f', 'f', 'f', 'f', 'f']
+['f', 'f', 'f', 'f']
+['f', 'f', 'f']
+['f', 'f']
+['f', 'f', 'f', 'f', 'f']
+['f', 'f', 'f', 'f']
+['f', 'f', 'f']
+['f', 'f']
+ret f.f.f.f.`temp10 2
+['f', 'f', 'f', 'f']
+['f', 'f', 'f']
+['f', 'f']
+['f', 'f', 'f', 'f']
+['f', 'f', 'f']
+['f', 'f']
+ret f.f.f.`temp10 6
+['f', 'f', 'f']
+['f', 'f']
+['f', 'f', 'f']
+['f', 'f']
+ret f.f.`temp10 24
+['f', 'f']
+['f', 'f']
+ret f.`temp10 120
+ret `temp12 120
+ret `temp13 "3"
+['to.Int']
+ret ptr 3
+['ptr', 'ptr']
+['to', 'Int', 'ptr']
+['to', 'ptr']
+ret ptr 3
+ret `temp12 3
+ret `temp12 0
+ret i 3
+ret `temp12 1
+ret i 3
+ret `temp13 2
+ret i 2
+ret `temp13 -1
+ret i 2
+ret j 0
+ret i 2
+ret `temp14 2
+ret j 2
+ret `temp14 1
+ret j 2
+ret j 2
+ret `temp15 1
+ret j 1
+ret `temp14 1
+ret j 1
+ret j 1
+ret `temp15 0
+ret j 0
+ret `temp14 -1
+ret i 2
+ret `temp12 1
+ret i 2
+ret `temp13 1
+ret i 1
+ret `temp13 -1
+ret i 1
+ret j 0
+ret i 1
+ret `temp14 1
+ret j 1
+ret `temp14 1
+ret j 1
+ret j 1
+ret `temp15 0
+ret j 0
+ret `temp14 -1
+ret i 1
+ret `temp12 1
+ret i 1
+ret `temp13 0
+ret i 0
+ret `temp13 -1
+ret i 0
+ret j 0
+ret i 0
+ret `temp14 0
+ret j 0
+ret `temp14 -1
+ret i 0
+ret `temp12 1
+ret i 0
+ret `temp13 -1
+ret i -1
+ret `temp13 -1
+ret i -1
+ret j 0
+ret i -1
+ret `temp14 -1
+ret j -1
+ret `temp14 -1
+ret i -1
+ret `temp12 -1
+
+
+
+21:56:02.651639
+ret `temp3 14
+ret `temp3 14
+ret t 14
+ret d 14
+['to3']
+ret to3.`temp0 0
+['to3', 'x10']
+ret x10 14
+['to3', 'x10']
+ret to3.`temp0 1
+['to3', 'x10']
+ret x10 14
+['to3', 'x10']
+ret to3.`temp3 14
+ret to3.`temp2 2
+ret to3.x3 0
+ret to3.`temp5 0
+ret to3.`temp6 10
+ret to3.`temp4 0
+ret to3.`temp1 2
+['to3', 'x10']
+ret x10 14
+['to3', 'x10']
+ret to3.`temp2 14
+ret to3.`temp1 4
+['to3', 'x10']
+ret x10 4
+['to3', 'x10']
+ret to3.`temp0 1
+['to3', 'x10']
+ret x10 4
+['to3', 'x10']
+ret to3.`temp3 4
+ret to3.`temp2 1
+ret to3.x3 2
+ret to3.`temp5 2
+ret to3.`temp6 10
+ret to3.`temp4 20
+ret to3.`temp1 21
+['to3', 'x10']
+ret x10 4
+['to3', 'x10']
+ret to3.`temp2 4
+ret to3.`temp1 1
+['to3', 'x10']
+ret x10 1
+['to3', 'x10']
+ret to3.`temp0 1
+['to3', 'x10']
+ret x10 1
+['to3', 'x10']
+ret to3.`temp3 1
+ret to3.`temp2 1
+ret to3.x3 21
+ret to3.`temp5 21
+ret to3.`temp6 10
+ret to3.`temp4 210
+ret to3.`temp1 211
+['to3', 'x10']
+ret x10 1
+['to3', 'x10']
+ret to3.`temp2 1
+ret to3.`temp1 0
+['to3', 'x10']
+ret x10 0
+['to3', 'x10']
+ret to3.`temp0 -1
+ret to3.`temp1 0
+ret to3.x3 211
+ret to3.`temp1 1
+ret to3.x3 211
+ret to3.`temp4 211
+ret to3.`temp3 1
+ret to3.ret 0
+ret to3.`temp6 0
+ret to3.`temp7 10
+ret to3.`temp5 0
+ret to3.`temp2 1
+ret to3.x3 211
+ret to3.`temp3 211
+ret to3.`temp2 21
+ret to3.x3 21
+ret to3.`temp1 1
+ret to3.x3 21
+ret to3.`temp4 21
+ret to3.`temp3 1
+ret to3.ret 1
+ret to3.`temp6 1
+ret to3.`temp7 10
+ret to3.`temp5 10
+ret to3.`temp2 11
+ret to3.x3 21
+ret to3.`temp3 21
+ret to3.`temp2 2
+ret to3.x3 2
+ret to3.`temp1 1
+ret to3.x3 2
+ret to3.`temp4 2
+ret to3.`temp3 2
+ret to3.ret 11
+ret to3.`temp6 11
+ret to3.`temp7 10
+ret to3.`temp5 110
+ret to3.`temp2 112
+ret to3.x3 2
+ret to3.`temp3 2
+ret to3.`temp2 0
+ret to3.x3 0
+ret to3.`temp1 -1
+ret to3.ret 112
+ret to3.`temp2 112
+ret `temp3 112
+
+
+
+13:14:59.943119
+
+
+
+13:15:57.247521
+
+
+
+13:16:19.928171
+
+
+
+13:16:32.902197
+
+
+
+13:16:45.590202
+
+
+
+13:16:52.064252
+
+
+
+13:19:02.856411
+
+
+
+13:19:23.747595
+
+
+
+13:19:39.875658
+
+
+
+13:20:32.409315
+
+
+
+13:20:45.264929
+
+
+
+13:21:06.723309
+ret `temp4 4
+ret `temp4 9
+ret fake_index 4
+['find']
+ret find.`temp0 0
+['find', 'n']
+ret n 9
+['find', 'n']
+ret find.`temp0 8
+ret find.`temp0 0
+ret find.`temp0 0
+ret find.`temp0 0
+ret find.`temp0 0
+ret find.low 0
+ret find.high 8
+ret find.`temp0 1
+ret find.steps 0
+ret find.`temp1 1
+ret find.high 8
+ret find.low 0
+ret find.`temp2 8
+ret find.`temp1 9
+ret find.low 0
+ret find.size 9
+ret find.`temp3 9
+ret find.`temp2 3
+ret find.`temp1 3
+ret find.low 0
+ret find.`temp3 2
+ret find.size 9
+ret find.`temp5 9
+ret find.`temp4 3
+ret find.`temp2 6
+ret find.`temp1 6
+['find', 'target']
+
+
+
+13:21:24.217903
+ret `temp4 4
+ret `temp4 9
+ret fake_index 4
+['find']
+ret find.`temp0 0
+['find', 'n']
+ret n 9
+['find', 'n']
+ret find.`temp0 8
+ret find.`temp0 0
+ret find.`temp0 0
+ret find.`temp0 0
+ret find.`temp0 0
+ret find.low 0
+ret find.high 8
+ret find.`temp0 1
+ret find.steps 0
+ret find.`temp1 1
+ret find.high 8
+ret find.low 0
+ret find.`temp2 8
+ret find.`temp1 9
+ret find.low 0
+ret find.size 9
+ret find.`temp3 9
+ret find.`temp2 3
+ret find.`temp1 3
+ret find.low 0
+ret find.`temp3 2
+ret find.size 9
+ret find.`temp5 9
+ret find.`temp4 3
+ret find.`temp2 6
+ret find.`temp1 6
+['find', 'target']
+
+
+
+13:21:34.633401
+ret `temp4 4
+ret `temp4 9
+ret fake_index 4
+ret n None
+['find']
+ret find.`temp0 0
+['find', 'n']
+ret n None
+['find', 'n']
+
+
+
+15:23:00.748639
+ret `temp4 4
+ret `temp4 9
+['find']
+ret find.`temp0 0
+['find', 'n']
+ret n 9
+['find', 'n']
+ret find.`temp0 8
+ret find.`temp0 0
+ret find.`temp0 0
+ret find.`temp0 0
+ret find.`temp0 0
+ret find.low 0
+ret find.high 8
+ret find.`temp0 1
+ret find.steps 0
+ret find.`temp1 1
+ret find.high 8
+ret find.low 0
+ret find.`temp2 8
+ret find.`temp1 9
+ret find.low 0
+ret find.size 9
+ret find.`temp3 9
+ret find.`temp2 3
+ret find.`temp1 3
+ret find.low 0
+ret find.`temp3 2
+ret find.size 9
+ret find.`temp5 9
+ret find.`temp4 3
+ret find.`temp2 6
+ret find.`temp1 6
+['find', 'target']
+['target']
+
+
+
+15:23:21.028036
+ret `temp4 4
+ret `temp4 9
+['find']
+ret find.`temp0 0
+['find', 'n']
+ret n 9
+['find', 'n']
+ret find.`temp0 8
+ret find.`temp0 0
+ret find.`temp0 0
+ret find.`temp0 0
+ret find.`temp0 0
+ret find.low 0
+ret find.high 8
+ret find.`temp0 1
+ret find.steps 0
+ret find.`temp1 1
+ret find.high 8
+ret find.low 0
+ret find.`temp2 8
+ret find.`temp1 9
+ret find.low 0
+ret find.size 9
+ret find.`temp3 9
+ret find.`temp2 3
+ret find.`temp1 3
+ret find.low 0
+ret find.`temp3 2
+ret find.size 9
+ret find.`temp5 9
+ret find.`temp4 3
+ret find.`temp2 6
+ret find.`temp1 6
+['find', 'target']
+ret target 4
+['find', 'target']
+ret find.m1 3
+ret find.`temp1 -1
+['find', 'target']
+ret target 4
+['find', 'target']
+ret find.m2 6
+ret find.`temp2 1
+ret find.m1 3
+ret find.`temp3 3
+ret find.m2 6
+ret find.`temp3 5
+ret find.low 3
+ret find.high 5
+ret find.`temp0 1
+ret find.steps 1
+ret find.`temp1 2
+ret find.high 5
+ret find.low 3
+ret find.`temp2 2
+ret find.`temp1 3
+ret find.low 3
+ret find.size 3
+ret find.`temp3 3
+ret find.`temp2 1
+ret find.`temp1 4
+ret find.low 3
+ret find.`temp3 2
+ret find.size 3
+ret find.`temp5 3
+ret find.`temp4 1
+ret find.`temp2 2
+ret find.`temp1 5
+['find', 'target']
+ret target 4
+['find', 'target']
+ret find.m1 4
+ret find.`temp1 -1
+['find', 'target']
+ret target 4
+['find', 'target']
+ret find.m2 5
+ret find.`temp2 1
+ret find.m1 4
+ret find.`temp3 4
+ret find.m2 5
+ret find.`temp3 4
+ret find.low 4
+ret find.high 4
+ret find.`temp0 -1
+ret find.steps 2
+ret find.`temp3 2
+ret `temp4 2

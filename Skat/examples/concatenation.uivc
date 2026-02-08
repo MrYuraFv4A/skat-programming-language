@@ -1,0 +1,2 @@
+new wa : string = "wa"
+$console.printv(wa + "ta" + "shi" + wa)

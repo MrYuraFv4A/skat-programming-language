@@ -1,0 +1,12 @@
+$console.printv <- 4 mod 3
+
+new main = {
+    $console.printv("hello, world!")
+}
+$main
+
+
+new foo : int = 8
+new bar : int = 2
+$console.printv(foo + bar)
+

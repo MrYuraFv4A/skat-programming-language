@@ -1,0 +1,127 @@
+#   TYPES
+int
+string
+
+#   INSTRUCTIONS
+Handler(
+    _command    :   string
+    _n=1        :   times
+)
+
+#   VARIABLES
+    DEFINITION
+new NAME = VALUE    | переменные могут принимать только значение int
+scoreboard player NAME NAMESPACE set VALUE
+    DELITION
+delete NAME
+reset NAME
+scoreboard player NAME NAMESPACE reset
+    MATH
+Name = 1 + 2 * 3
+    (NAME = (1 + (2 * 3)))
+        Name = 2
+        Name *= 3
+        Name += 1
+scoreboard player NAME NAMESPACE set 2 
+scoreboard player NAME NAMESPACE add 2
+scoreboard player NAME NAMESPACE add 2
+scoreboard player NAME NAMESPACE add 1
+
+#   FUNCTIONS
+    DEFINITION
+new NAME <- ARGS= {
+    ...
+    return ...(: TYPE)
+}
+scoreboard objectives add NAME dummy
+
+new NAME = {
+    ...
+    return ...(: TYPE)
+}
+
+    CALLING
+$NAME <- ARGS
+$NAME(ARGS)
+scoreboard player ARG1 NAME set VALUE
+scoreboard player ARG2 NAME set VALUE
+...
+function NAME
+    DELITION
+delete NAME
+scoreboard objectives delete NAME
+
+#   IF-ELSE
+if (condition) run {
+    ...
+}
+execute if condition run ...
+
+if (condition1) & (condition2) run {
+    ...
+}
+execute if condition1 if condition2 run ...
+
+if (condition1) | (condition2) run {
+    ...
+}
+execute if condition1 if condition2 run ...
+execute if condition1 unless condition2 run ...
+execute unless condition1 if condition2 run ...
+
+if (condition1) run {
+    ...
+}
+elif (condition2) run {
+    ...
+}
+elif (condition3) or (condition4) run {
+
+}
+else run {
+    ...
+}
+execute if condition1 run ...
+execute unless condition1 if condition2 run ...
+execute unless condition1 unless condition2 if condition3 if condition4 run ...
+execute unless condition1 unless condition2 if condition3 unless condition4 run ...
+execute unless condition1 unless condition2 unless condition3 if condition4 run ...
+execute unless condition1 unless condition2 run ...
+
+//файл .mcfunction
+temp_namespace_line.mcfunction
+execute if ... run function temp_namespace_line
+
+//Если
+if (condition) run $FUNCTION
+execute if ... run FUNCTION
+
+#   NAMESPACE
+    DEFINITION
+namespace NAME{
+    ...
+}
+scoreboard objectives add NAME dummy
+    USING
+namespace NAMESPACE{
+    new NAME = 1
+}
+$NAMESPACE.NAME = 2 + 3
+scoreboard objectives add NAMESPACE dummy
+scoreboard player NAME NAMESPACE set 1
+scoreboard player NAME NAMESPACE set 2
+scoreboard player NAME NAMESPACE add 3
+
+#   PACKAGE
+    DEFINITION
+package NAME{
+    ...
+}
+    USING
+package PACKAGE{
+    new FUNC = {
+        ...
+    }
+    $FUNC()
+}
+$PACKAGE.FUNC()

@@ -1,0 +1,29 @@
+new i : int = $to.Int <- $in;
+new j : int = 0
+
+
+while (i > 0) run {
+    i-- //i = i - 1
+
+    j++
+
+    $out <- "j = "
+    $console.printv(j)
+}
+
+
+/*
+while (i >= 0) run {
+    i--
+    if (i > 10) run {
+        breakdance
+    }
+    $console.printv(i)
+    j += i
+    while (j > 0) run {
+        $console.printv <- j;
+        j--
+    }
+}
+$console.printv <- "Цикл завершён"
+*/

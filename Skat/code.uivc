@@ -1,0 +1,23 @@
+// ternary numbers
+new to3 <- x10 : int -> int = {
+    new x3 : int = 0
+    while (x10 > 0) run {
+        x3 = (x10 mod 3) + x3 * 10
+        x10 = x10 div 3
+    }
+    new ret : int = 0
+    while (x3 > 0) run {
+        ret = (x3 mod 10) + ret * 10
+        x3 = x3 div 10
+    }
+    return ret
+}
+
+new t : int = 0t112
+new d : int = 14
+
+$out <- "t в десятичной: "
+$console.printv <- t
+
+$out <- "d в троичной: 0t"
+$console.printv <- $to3 <- d

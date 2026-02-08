@@ -1,0 +1,70 @@
+// Конкатенация строк
+
+new wa : string = "Добрый"
+$console.printv(wa + "," + " " + "день")
+
+
+// Троичная логика и условные выражения
+
+new co : kleene = maybe & true | false
+if (co) run {
+    $console.printv("true")
+} else if (0 == co) run {
+    if (1 == 0) run {
+    } else run {
+        $console.printv("maybe")
+    }
+} else run {
+    $console.printv("false")
+}
+
+
+/* --- */
+
+
+$out <- "Пожалуйста, введите число: "
+new i : int = $to.Int <- $in;
+if (i > 10) run {
+    if (i < 30) & (i > 20) run {
+        $console.printv("20")
+    } else run { 
+        $console.printv("Больше 10")
+    }
+} else run {
+    if (i == 10) run {$console.printv("10")} else run {
+        $console.printv("Меньше 10")
+    }
+}
+
+
+// Рекурсия
+$out <- "факториал"
+new f /* факториал числа */ <- x : int -> int = {
+    if (x == 0) run {
+        return 1
+    } else run {
+        return x*$f(x-1)
+    }
+}
+
+$console.printv($f(5))
+
+
+// Циклы
+
+$out <- "Пожалуйста, введите число: "
+new i : int = $to.Int <- $in;
+new j : int = 0
+while (i >= 0) run {
+    i--
+    if (i > 10) run {
+        breakdance
+    }
+    $console.printv(i)
+    j += i
+    while (j > 0) run {
+        $console.printv <- j;
+        j--
+    }
+}
+$console.printv <- "Цикл завершён"
