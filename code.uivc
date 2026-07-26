@@ -1,0 +1,4 @@
+new main() {
+    printv("hello world");
+    return null;
+}
