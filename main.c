@@ -13,6 +13,9 @@ int main() {
     char *src = open();
 
     struct TokenArray *tokens = lexer(src);
+
+    showTokens(tokens);
+
     freeTokens(tokens);
     
     //printf("%s\n", src);

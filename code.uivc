@@ -1,4 +1,4 @@
-new main() {
-    printv("hello world");
-    return null;
+new main = {
+    new msg : string = "hello world";
+    $printv <- msg;
 }
