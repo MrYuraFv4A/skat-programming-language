@@ -7,7 +7,6 @@ struct Token tokenConstruct(char *ptr, size_t len, TokenType type, size_t line) 
     return (struct Token){svConstruct(ptr, len), type, line};
 }
 
-
 struct StringView svConstruct(char *str, size_t len) {
     return (struct StringView){str, len};
 }
@@ -196,9 +195,9 @@ struct TokenArray *lexer(char *src) {
             for (len = 0; *(ptr + len) != '\0' && (*(ptr + len) == '.' || strchr(digits, *(ptr + len))); len++);
             
             type = INT;
-            for (size_t i, count = 0; i < len; i++) if (*(ptr + i) == '.') {
+            for (size_t i = 0, count = 0; i < len; i++) if (*(ptr + i) == '.') {
                 count++;
-                if (count) type = DOUBLE;
+                if (count == 1) type = DOUBLE;
                 if (count > 1) {
                     char num[len + 1];
                     strncpy(num, ptr, len);
@@ -208,6 +207,11 @@ struct TokenArray *lexer(char *src) {
                     exit(1);
                 }
             }
+
+            while (*ptr == '0') {
+                ptr++;
+                len--;
+            } //erase leading zeros
 
             
             pushToken(tokens, tokenConstruct(ptr, len, type, line));

@@ -1,4 +1,5 @@
-new main = {
+12345678910
+\*new main = {
     new msg : string = "hello world";
     $printv <- msg;
-}
+}*\

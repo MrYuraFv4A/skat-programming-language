@@ -36,3 +36,6 @@ LESS	32
 BIGGER_OR_EQUAL	33
 LESS_OR_EQUAL	34
 ARROW	35
+
+
+iteralChickenburger

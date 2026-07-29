@@ -12,9 +12,11 @@ int main() {
 
     char *src = open();
 
-    struct TokenArray *tokens = lexer(src);
+    TokenArray *tokens = lexer(src);
 
-    showTokens(tokens);
+    Node *ast = parser(tokens);
+
+    //showTokens(tokens);
 
     freeTokens(tokens);
     
