@@ -1,4 +1,4 @@
-12345678910
+12345678910g
 \*new main = {
     new msg : string = "hello world";
     $printv <- msg;

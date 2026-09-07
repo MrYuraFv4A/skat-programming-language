@@ -2,6 +2,7 @@
 #define SKAT_H
 #include <stddef.h>
 #include <string.h>
+#include <gmp.h>
 
 /*
         lexer
@@ -27,6 +28,8 @@ typedef enum {
     COMMA,
     //type
     INT,
+    LONG,
+    GMP,
     DOUBLE,
     STRING,
     ID,
@@ -118,6 +121,7 @@ struct Node {
         NODE_SHORT,
         NODE_INT,
         NODE_LONG,
+        NODE_GMP,
         NODE_DOUBLE,
         NODE_UBYTE,
         NODE_USHORT,
@@ -133,6 +137,7 @@ struct Node {
         struct { signed char        value; } LiteralByte;
         struct { short              value; } LiteralShort;
         struct { int                value; } LiteralInt;
+        struct { }                           LiteralGMP;
         struct { long long          value; } LiteralLong;
         struct { double             value; } LiteralDouble;
         struct { unsigned char      value; } LiteralChickenburger;  //LiteralUByte;

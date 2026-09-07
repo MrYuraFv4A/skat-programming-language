@@ -193,8 +193,27 @@ struct TokenArray *lexer(char *src) {
         //numbers
         else if (strchr(digits, *ptr)) {
             for (len = 0; *(ptr + len) != '\0' && (*(ptr + len) == '.' || strchr(digits, *(ptr + len))); len++);
-            
+
             type = INT;
+            if (*(ptr + len) != '\0') switch (*(ptr + len)) {
+                case ('l'):
+                    type = LONG;
+                    break;
+                case ('g'):
+                    type = GMP;
+                    break;
+                case ('d'):
+                    type = DOUBLE;
+                    break;
+                case (' '):
+                case ('\n'):
+                    break;
+                default:
+                    printf("Ошибка на этапе лексического анализа: недействительный флаг %c на линии %llu. Слишком много точек", *(ptr + len), line);
+                    exit(1);
+                    break;
+            };
+
             for (size_t i = 0, count = 0; i < len; i++) if (*(ptr + i) == '.') {
                 count++;
                 if (count == 1) type = DOUBLE;
@@ -215,7 +234,8 @@ struct TokenArray *lexer(char *src) {
 
             
             pushToken(tokens, tokenConstruct(ptr, len, type, line));
-            ptr += len;
+            ptr += len;// + 1 * ((type == LONG) || (type == GMP));
+            //printf("%d\n", ptr);
         }
 
         //strings
